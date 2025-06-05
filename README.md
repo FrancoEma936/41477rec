@@ -28,10 +28,6 @@ Desde la misma terminal:
 code .
 ```
 
-O de forma manual:
-
-File → Open Folder… → Seleccioná 44058
-
 
 ## Instrucciones de uso
 
