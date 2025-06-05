@@ -56,10 +56,14 @@ Paso 2:Ejemplo de entrada y salida
 .Entrada de ejemplo (archivo input.txt):
 
  ```sh
-accion primeraAccion {
-  moverArchivo a /home/usuario/documentos/informe.txt
-  usarEscaneoProfundo
-  notificar "Análisis completo"
+x = 2;
+switch(x) {
+    case 1:
+        output("Uno");
+    case 2:
+        output("Dos");
+    default:
+        output("Otro");
 }
 ```
 
