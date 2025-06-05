@@ -1,0 +1,9 @@
+x = 2;
+switch(x) {
+    case 1:
+        output("Uno");
+    case 2:
+        output("Dos");
+    default:
+        output("Otro");
+}
