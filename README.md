@@ -10,7 +10,7 @@ Este proyecto utiliza ANTLR4 para generar analizadores léxicos y sintácticos. 
 Abrí una terminal y ejecutá:
 
 ```sh
-git clone https://github.com/FrancoEma936/41477rec.git
+git clone https://github.com/FrancoEma936/41477rec
 ```
 
 Luego:
